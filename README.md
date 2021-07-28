@@ -1,2 +1,3 @@
 # attack_profiles
-MITRE ATT&amp;CK profiles 
+
+A bunch MITRE ATT&amp;CK profiles in .json and PNG format for Navigator use.
